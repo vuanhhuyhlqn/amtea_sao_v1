@@ -1,2 +1,2 @@
 # amtea_sao_v1
-LLM Adaptive Knowledge Transfer for MTEA-SaO
+LLM Solver Generatation for MTEA-SaO
