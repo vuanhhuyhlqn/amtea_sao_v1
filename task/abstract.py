@@ -1,5 +1,5 @@
-class AbstractCrossover:
+class AbstractTask:
     def __init__(self):
         pass
-    def __call__(self):
+    def fitness(self):
         pass
