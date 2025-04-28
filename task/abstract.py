@@ -3,3 +3,5 @@ class AbstractTask:
         pass
     def fitness(self):
         pass
+    def __call__(self):
+        pass
